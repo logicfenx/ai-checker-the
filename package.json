@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/ai-checker-the",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a ai-checker-the",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/ai-checker-the.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/ai-checker-original-content-2025/"
+    },
+    "homepage": "https://bitcu.co/en/ai-checker-original-content-2025/"
+}
